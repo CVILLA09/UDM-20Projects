@@ -24,6 +24,7 @@ button {
     width: 15rem;
     height: 15rem;
     margin: 2rem 0;
+    transform-style: preserve-3d;
 }
 
 #coin div {
@@ -36,7 +37,7 @@ button {
     position: absolute;
 }
 
-.headClass {
+.headsClass {
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/US_One_Cent_Obv.png/220px-US_One_Cent_Obv.png");
 }
 
@@ -56,8 +57,8 @@ button {
     }
 }
 
-.tailClass {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/US_One_Cent_Rev.png/220px-US_One_Cent_Rev.png");
+.tailsClass {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wheatback2014.jpg/1920px-Wheatback2014.jpg");
     transform: rotateY(-180deg);
 }
 
