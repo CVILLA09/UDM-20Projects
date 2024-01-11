@@ -40,6 +40,18 @@ function drag(){
     }
 
     function mouseUp(e){
+    if(dragging){
+        eleX = Number.parseInt(dragging.style.left, 10);
+        eleY = Number.parseInt(dragging.style.top, 10);
+        
+        // Clean up the event listeners after dragging is done
+        document.removeEventListener("mousemove", mouseMove);
+        document.removeEventListener("mouseup", mouseUp);
+
         dragging = false;
     }
 }
+
+}
+
+drag();
