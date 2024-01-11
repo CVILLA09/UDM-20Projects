@@ -4,7 +4,7 @@
     box-sizing: border-box;
     color: #fff;
     user-select: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive, sans-serif;
 }
 
 body {
@@ -17,9 +17,9 @@ body {
 
 div {
     text-align: center;
-    font-size: 15rem;
+    font-size: 20rem;
 }
 
-#e, #l1, #l2, #o, #complete {
+#e, #l1, #l2, #o,#exclamation, #complete {
     display: none;
 }
