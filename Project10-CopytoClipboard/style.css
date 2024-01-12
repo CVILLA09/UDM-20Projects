@@ -72,6 +72,6 @@ button:hover {
     opacity: 0;
 }
 
-.after-click {
+.after-clicked {
     opacity: 1;
 }
