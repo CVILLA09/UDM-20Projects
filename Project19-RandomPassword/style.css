@@ -134,6 +134,6 @@ input[type="range"] {
 }
 
 .pass-indicator.strong::before {
-    background: #4285f4;
+    background: #0ec517;
     width: 100%;
 }
