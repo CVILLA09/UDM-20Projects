@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded",  () => {
             totalCashValue += parseInt(text.textContent);
         });
 
-        txtFinalCash.textContent = "Total Cash: " + totalCashValue;
+        txtFinalCash.textContent = "Total Cash: $" + totalCashValue;
 
         txtFinalCashInWords.textContent = `${convertToWords(totalCashValue)} Dollars`;
     }
