@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true" alt="readme-gif" width="700" height="500" style="display: inline-block;">
+  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true" alt="readme-gif" width="900" height="600" style="display: inline-block;">
 </div>
 
 <br/>
