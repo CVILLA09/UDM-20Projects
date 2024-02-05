@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true" alt="readme-gif" width="500" height="900" style="display: inline-block;">
+  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true" alt="readme-gif" width="700" height="500" style="display: inline-block;">
 </div>
 
 <br/>
@@ -22,36 +22,34 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Budget app ](#-budget-app-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+- [⌨️ Key Codes](#-key-codes)
+  - [🛠 Built With](#-built-with)
+    - [Tech Stack](#-tech-stack)
+  - [🚀 Live Demo](#-live-demo)
+  - [💻 Getting Started](#-getting-started)
+    - [Prerequisites](#-prerequisites)
+    - [Setup](#-setup)
+    - [Usage](#-usage)
+  - [👥 Authors](#-authors)
+  - [🔭 Future Features](#-future-features)
+  - [🤝 Contributing](#-contributing)
+  - [⭐️ Show your support](#-support)
+  - [🙏 Acknowledgments](#-acknowledgments)
+  - [📝 License](#-license)
+
+<br/>
 
 <!-- PROJECT DESCRIPTION -->
 
-# ⌨️ Key Codes <a name="about-project"></a>
+# ⌨️ Key Codes <a name="-key-codes"></a>
 
 **Key Codes** is an interactive web project that displays the key, code, and key code of the key you press on the computer keyboard using HTML, CSS, and JavaScript.
 
 <img width="374" alt="preview" src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true">
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="-built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="-tech-stack"></a>
 
 <details>
   <summary>Frontend</summary>
@@ -64,7 +62,7 @@
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="-key-features"></a>
 
 - **Dynamic display of pressed key, code, and key code.**
 - **Stylish UI with animations.**
@@ -73,7 +71,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="-live-demo"></a>
 
 - [Live Demo Link]()
 
@@ -81,15 +79,15 @@
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name="-getting-started"></a>
 
 To run the "Key Codes" project locally, follow these steps.
 
-### Prerequisites
+### Prerequisites <a name="-prerequisites"></a>
 
 Ensure you have a text editor (e.g., VSCode) installed.
 
-### Setup
+### Setup <a name="-setup"></a>
 
 Clone this repository to your desired folder:
 
@@ -98,7 +96,7 @@ Clone this repository to your desired folder:
   git clone git@github.com:CVILLA09/UDM-20Projects.git
 ```
 
-### Usage
+### Usage <a name="-usage"></a>
 
 To run the project:
 
@@ -113,7 +111,7 @@ To run the project:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="-authors"></a>
 
 👤 **Cristian Villa**
 
@@ -123,7 +121,8 @@ To run the project:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-## 🔭 Future Features <a name="future-features"></a>
+
+## 🔭 Future Features <a name="-future-features"></a>
 
 - [ ] **Enhance UI with additional styling.**
 - [ ] **Implement more interactive animations.**
@@ -132,7 +131,7 @@ To run the project:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="-contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -142,7 +141,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="-support"></a>
 
 Give a ⭐️ if you like this project!
 
@@ -150,18 +149,17 @@ Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="-acknowledgements"></a>
 
-I extend my gratitude to <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="108" height="18">, the learning platform, and the instructor:
+I extend my gratitude to <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="70" height="30">, the learning platform, and the instructor:
 
-**Vijay Kumar**
-Developer and Content Creator
+- **Vijay Kumar**  (Developer and Content Creator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="-license"></a>
 
 This project is [MIT](../LICENSE) licensed.
 
