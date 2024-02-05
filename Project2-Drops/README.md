@@ -45,7 +45,7 @@
 
 **Drops Animation** is an interactive web project that displays colorful drops (circles) as they appear on the screen. The drops change color as they expand and fade away using HTML, CSS, and JavaScript.
 
-<img width="374" alt="preview" src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project1-KeyCodes/assets/Project1Preview.gif?raw=true">
+<img width="374" alt="preview" src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project2-Drops/assets/Project2Preview.gif?raw=true">
 
 ## 🛠 Built With <a name="-built-with"></a>
 
