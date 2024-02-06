@@ -125,7 +125,7 @@ To run the project:
 ## 🔭 Future Features <a name="-future-features"></a>
 
 - [ ] **Explore additional variations in bubble animations.**
-- [ ] ** Implement user customization for bubble appearance.**
+- [ ] **Implement user customization for bubble appearance.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
