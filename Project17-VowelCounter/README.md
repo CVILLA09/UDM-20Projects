@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
- <h1><b> Welcome to 20 Javascript Projects - Project #16 </b></h1>
+ <h1><b> Welcome to 20 Javascript Projects - Project #17 </b></h1>
 </div>  
 
 <br/>
