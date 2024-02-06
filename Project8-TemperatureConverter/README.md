@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-temperature-converter)
+- [🌡️ Temperature Converter](#-temperature-converter)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
