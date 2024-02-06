@@ -286,7 +286,7 @@ I extend my gratitude to <img src="https://upload.wikimedia.org/wikipedia/common
 ## 👨‍🎓 Certificate <a name="-certificate"></a>
 
 <div align="center">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-821361c1-932e-439c-ab63-c95cf0bc092a.jpg?v=1706786885000" alt="udemy-certificate" width="600" height="400" style="display: inline-block;">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-821361c1-932e-439c-ab63-c95cf0bc092a.jpg?v=1706786885000" alt="udemy-certificate" width="600" height="500" style="display: inline-block;">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
