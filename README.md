@@ -35,6 +35,7 @@
   - [🤝 Contributing](#-contributing)
   - [⭐️ Show your support](#-support)
   - [🙏 Acknowledgments](#-acknowledgments)
+  - [👨‍🎓 Certificate](#-certificate)
   - [📝 License](#-license)
 
 <br/>
@@ -277,6 +278,16 @@ Give a ⭐️ if you like this project!
 I extend my gratitude to <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" width="70" height="30">, the learning platform, and the instructor:
 
 - **Vijay Kumar**  (Developer and Content Creator)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CERTIFICATE -->
+
+## 👨‍🎓 Certificate <a name="-certificate"></a>
+
+<div align="center">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-821361c1-932e-439c-ab63-c95cf0bc092a.jpg?v=1706786885000" alt="udemy-certificate" width="600" height="400" style="display: inline-block;">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
