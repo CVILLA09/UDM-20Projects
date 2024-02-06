@@ -1,18 +1,18 @@
 <a name="readme-top"></a>
 <div align="center">
- <h1><b> Welcome to 20 Javascript Projects - Project #15 </b></h1>
+ <h1><b> Welcome to 20 Javascript Projects - Project #16 </b></h1>
 </div>  
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project15-ResponsiveNavbar/assets/Project15Preview.gif?raw=true" alt="readme-gif" width="900" height="600" style="display: inline-block;">
+  <img src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project16-StopwatchTimer/assets/Project16Preview.gif?raw=true" alt="readme-gif" width="900" height="600" style="display: inline-block;">
 </div>
 
 <br/>
 
 <div align="center">
-  <h1 style="border-bottom: none;"> Responsive Navbar </h1>
+  <h1 style="border-bottom: none;"> ⏳ Stopwatch Timer Application ⏱️ </h1>
 </div> 
 
 <br/>
@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⭕ Icon Hover Effect](#-icon-hover-effect)
+- [⏱️ Stopwatch Timer App](#-stopwatch-timer-app)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
@@ -41,12 +41,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ⭕ Responsive Navbar <a name="-responsive-navbar"></a>
+# ⏱️ Stopwatch Timer App <a name="-stopwatch-timer-app"></a>
 
-**Responsive Navbar** is an engaging web project that features a responsive navigation bar with an icon hover effect. It changes into a different setup in a mobile device. Developed using HTML, CSS, and JavaScript.
+**Stopwatch Timer App** is a web project that provides a user-friendly interface for tracking time using HTML, CSS, and JavaScript.
 
 
-<img width="374" alt="preview" src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project15-ResponsiveNavbar/assets/Project15Preview.gif?raw=true">
+<img width="374" alt="preview" src="https://github.com/CVILLA09/UDM-20Projects/blob/dev/Project16-StopwatchTimer/assets/Project16Preview.gif?raw=true">
 
 ## 🛠 Built With <a name="-built-with"></a>
 
@@ -65,8 +65,8 @@
 
 ### Key Features <a name="-key-features"></a>
 
-- **Responsive navbar with icon hover effect.**
-- **Visually appealing styling and animations.**
+- **Start, stop, pause, and reset functionality for precise time tracking.**
+- **Lap timer feature to record and display lap times.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@
 
 ## 💻 Getting Started <a name="-getting-started"></a>
 
-To run the "Responsive Navbar" project locally, follow these steps.
+To run the "Stopwatch Timer App" project locally, follow these steps.
 
 ### Prerequisites <a name="-prerequisites"></a>
 
@@ -125,7 +125,7 @@ To run the project:
 
 ## 🔭 Future Features <a name="-future-features"></a>
 
-- [ ] **Enhance navigation bar with additional styling.**
+- [ ] **Enhance UI with additional styling.**
 - [ ] **Implement more interactive animations.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
