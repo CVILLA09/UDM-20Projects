@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-drops-animation)
+- [🔴 Drops Animation](#-drops-animation)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
@@ -41,7 +41,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ⌨️ Drops Animation <a name="-drops-animation"></a>
+# 🔴 Drops Animation <a name="-drops-animation"></a>
 
 **Drops Animation** is an interactive web project that displays colorful drops (circles) as they appear on the screen. The drops change color as they expand and fade away using HTML, CSS, and JavaScript.
 
@@ -81,7 +81,7 @@
 
 ## 💻 Getting Started <a name="-getting-started"></a>
 
-To run the "Key Codes" project locally, follow these steps.
+To run the "Drops Animation" project locally, follow these steps.
 
 ### Prerequisites <a name="-prerequisites"></a>
 
