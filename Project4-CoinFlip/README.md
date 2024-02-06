@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-coin-flip-app)
+- [❓ Coin Flip App](#-coin-flip-app)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
@@ -41,7 +41,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ⌨️ Coin Flip App <a name="-coin-flip-app"></a>
+# ❓ Coin Flip App <a name="-coin-flip-app"></a>
 
 **Coin Flip App** is a web project that simulates flipping a coin (Penny) using HTML, CSS, and JavaScript. It displays a Penny coin and has a button that, when clicked, flips the coin, randomly showing either Heads or Tails. The app keeps track of the count for both outcomes.
 
