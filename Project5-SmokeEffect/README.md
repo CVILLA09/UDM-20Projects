@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-smoke-hover-effect)
+- [💨 Smoke Hover Effect](#-smoke-hover-effect)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
