@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-name-tag-stickers)
+- [📓 Name Tag Stickers](#-name-tag-stickers)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
@@ -41,7 +41,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# ⌨️ Name Tag Stickers <a name="-name-tag-stickers"></a>
+# 📓 Name Tag Stickers <a name="-name-tag-stickers"></a>
 
 **Name Tag Stickers** is an interactive web project that displays colorful stickers with three different names as an example. The name tag stickers change colors randomly and move to make it more dynamic and visually appealing using HTML, CSS, and JavaScript.
 
