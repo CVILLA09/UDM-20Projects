@@ -22,7 +22,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [⌨️ Key Codes](#-timeline-app)
+- [⌨️ Key Codes](#-drag-drop)
   - [🛠 Built With](#-built-with)
     - [Tech Stack](#-tech-stack)
   - [🚀 Live Demo](#-live-demo)
